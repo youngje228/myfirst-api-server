@@ -18,4 +18,5 @@ patches:
 #     skala-registry.skala-us.com/class-2/sk044-webserver=skala-registry.skala-us.com/class-2/sk044-webserver:<NEW_TAG>
 images:
 - name: skala-registry.skala-us.com/class-2/sk044-webserver
-  newTag: "1.0"
+  newName: skala-registry.skala-us.com/class-2/sk044-webserver
+  newTag: 1.0.buildkit-pod
